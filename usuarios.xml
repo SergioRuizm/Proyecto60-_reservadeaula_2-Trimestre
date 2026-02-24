@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+                            
+    
+    
+    
+    
+    
+    <usuario>
+                                                        
+        
+        
+        
+        
+        
+        <id>1</id>
+                                                        
+        
+        
+        
+        
+        
+        <tipo>alumno</tipo>
+                                                        
+        
+        
+        
+        
+        
+        <nombre>43930l</nombre>
+                                                        
+        
+        
+        
+        
+        
+        <apellidos>sergio</apellidos>
+                                                        
+        
+        
+        
+        
+        
+        <dni>fskaf</dni>
+                                                        
+        
+        
+        
+        
+        
+        <activo>true</activo>
+                                                    
+    
+    
+    
+    
+    
+    </usuario>
+                        
+    
+    
+    
+    
+    
+    <usuario>
+                                                
+        
+        
+        
+        
+        <id>1</id>
+                                                
+        
+        
+        
+        
+        <tipo>alumno</tipo>
+                                                
+        
+        
+        
+        
+        <nombre>32244667I</nombre>
+                                                
+        
+        
+        
+        
+        <apellidos>Raul</apellidos>
+                                                
+        
+        
+        
+        
+        <dni>dfjeous</dni>
+                                                
+        
+        
+        
+        
+        <activo>true</activo>
+                                            
+    
+    
+    
+    
+    </usuario>
+                    
+    
+    
+    
+    
+    <usuario>
+                                        
+        
+        
+        
+        <id>1</id>
+                                        
+        
+        
+        
+        <tipo>alumno</tipo>
+                                        
+        
+        
+        
+        <nombre>482948L</nombre>
+                                        
+        
+        
+        
+        <apellidos>David</apellidos>
+                                        
+        
+        
+        
+        <dni>Lopez</dni>
+                                        
+        
+        
+        
+        <activo>true</activo>
+                                    
+    
+    
+    
+    </usuario>
+                
+    
+    
+    
+    <usuario>
+                                
+        
+        
+        <id>2</id>
+                                
+        
+        
+        <tipo>profesor</tipo>
+                                
+        
+        
+        <nombre>38592849I</nombre>
+                                
+        
+        
+        <apellidos>Alvaro</apellidos>
+                                
+        
+        
+        <dni>Ortiz</dni>
+                                
+        
+        
+        <activo>true</activo>
+                            
+    
+    
+    </usuario>
+            
+    
+    
+    <usuario>
+                        
+        
+        <id>1</id>
+                        
+        
+        <tipo>alumno</tipo>
+                        
+        
+        <nombre>mskifwo</nombre>
+                        
+        
+        <apellidos>mfnj</apellidos>
+                        
+        
+        <dni>384929840J</dni>
+                        
+        
+        <activo>true</activo>
+                    
+    
+    </usuario>
+        
+    
+    <usuario>
+                
+        <id>1</id>
+                
+        <tipo>alumno</tipo>
+                
+        <nombre>5749384P</nombre>
+                
+        <apellidos>fjrisnf</apellidos>
+                
+        <dni>jfifej</dni>
+                
+        <activo>true</activo>
+            
+    </usuario>
+    
+    <usuario>
+        <id>1</id>
+        <tipo>profesor</tipo>
+        <nombre>fhhfue</nombre>
+        <apellidos>fjer</apellidos>
+        <dni>57497598Y</dni>
+        <activo>true</activo>
+    </usuario>
+</usuarios>
